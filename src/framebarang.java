@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author User
+ * @author reza
  */
 public class framebarang extends javax.swing.JFrame {
 private Statement stat;  
